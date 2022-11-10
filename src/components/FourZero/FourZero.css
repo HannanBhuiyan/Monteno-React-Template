@@ -1,0 +1,15 @@
+ 
+.four_zero_area h2 {
+     color: brown;
+     font-weight: 900;
+     font-size: 60px;
+}
+.four_zero_area .btnbutton {
+     background-color: red;
+     color: #fff;
+     padding: 20px 30px;
+     text-decoration: none;
+     font-size: 20px;
+     font-weight: bold;
+     border-radius: 20px;
+ }
